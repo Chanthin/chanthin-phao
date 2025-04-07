@@ -3,6 +3,11 @@
   **Phao Chanthin**
 </p>
 
+<p align="center">
+  
+  **Phao Chanthin**
+</p>
+
 
 Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionate about using data to solve real-world problems. With strong foundations in both theory and practice, I turn raw data into powerful insights and smart applications.
 
