@@ -1,6 +1,5 @@
 <p align="center">
   <img src="e20210227.JPG" alt="Profile Picture" width="200" style="border-radius: 50%;">
-  **Phao Chanthin**
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionat
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Category | Tools & Languages |
 |---------|------------------|
