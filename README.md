@@ -1,7 +1,7 @@
 # 👨‍💻 My Data Science & Engineering Portfolio
 
 <p align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src="e20210227.JPG" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </p>
 
 Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionate about using data to solve real-world problems. With strong foundations in both theory and practice, I turn raw data into powerful insights and smart applications.
