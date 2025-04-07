@@ -1,18 +1,17 @@
-# 👨‍💻 My Data Science & Engineering Portfolio
-
 <p align="center">
   <img src="e20210227.JPG" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </p>
+**Phao Chanthin**
 
 Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionate about using data to solve real-world problems. With strong foundations in both theory and practice, I turn raw data into powerful insights and smart applications.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Studied at **Institute Of Technology Of Cambodia**
 - 🔢 Mathematician by heart, coder by practice  
-- 💼 Experienced in **Machine Learning**, **Data Pipelines**, and **Predictive Modeling**  
+- 💼 Experienced in **Machine Learning**, **Data Engineering**, and **Predictive Modeling**  
 - 🌏 Multilingual: Fluent in **Khmer**, **English**, **Thai**, and **Japanese**  
 - 🌟 Always learning. Always building.
 
@@ -24,13 +23,13 @@ Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionat
 |---------|------------------|
 | **Programming** | Python, C++ |
 | **Databases** | MySQL, SQL |
-| **Visualization & BI** | Power BI, Microsoft Excel |
+| **Visualization & BI** | Power BI, Microsoft (Excel,Word, Power Point |
 | **ML & Data** | Scikit-Learn, Pandas, NumPy, Regression, Classification |
 | **Languages** | Khmer 🇰🇭, English 🇺🇸, Thai 🇹🇭, Japanese 🇯🇵 |
 
 ---
 
-## 💡 Projects
+## My Projects
 
 | Project | Description |
 |--------|-------------|
@@ -44,9 +43,9 @@ Hi! I'm a **Data Scientist**, **Data Engineer**, and **Mathematician** passionat
 
 ## 📫 Let's Connect
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- GitHub: [phaochanthin](https://github.com/phaochanthin)
+- Email: phaochanthin@gmail.com
+- LinkedIn: [linkedin.com/in/phaochanthin](https://linkedin.com/in/phaochanthin)
 
 ---
 
